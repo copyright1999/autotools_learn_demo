@@ -1,0 +1,3 @@
+AUTOMAKE_OPTIONS=foreign
+noinst_LIBRARIES=libchar.a
+libchar_a_SOURCES=char_device.h char_device.cpp
